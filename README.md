@@ -26,7 +26,7 @@ Python has been used to run some statistical tests such as Pearson correlation.
 3. In the current data set the duration of stay is only between 1-3 days. It can be assumed that this data is for short duration bookings only. Data regarding long term stays will be needed to see if the given analysis holds for them or not.
 4. Multiple years need to be analysed to interpret and account for seasonal trends. 
 
-# Implementtion and Way Forward
+# Implementation and Way Forward
 1. Check booking abandonment rate -> check where people drop in the funnel and then re-target them. For example, if they drop off at giving card info, allow them to save progress and come back.
 2. Pop ups/ Notifications which instill " Fear of Missing out on a limited time offer". Mention how many places have been booked in past hour. Award points for early bookings which can be redeemed.
 3. If a person sends an x amount of time looking at a place or marks it as a favorite, send constant reminders via push notifications to complete booking process. Reinforcement leads to action.
